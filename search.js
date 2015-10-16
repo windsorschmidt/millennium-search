@@ -1,4 +1,4 @@
-// Copyright 2006, Oakland Public Library
+// Copyright 2006-2015 Oakland Public Library
 //
 // http://oaklandlibrary.org/
 //
